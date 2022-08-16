@@ -6,6 +6,6 @@ In this project we use a BERT model to find Metaphors in old german texts. The w
 - oversampling by translation (en, da, pl, cs)
 - average-precision as meaningful metric
 - focal loss as loss function
-- the right BERT-variant
+- an appropriate BERT-variant
 
 Feel free to read throught the project or extend on the work
